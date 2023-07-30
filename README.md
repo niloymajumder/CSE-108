@@ -1,1 +1,1 @@
-# CSE-108
+# CSE 108 Lab Assignments
